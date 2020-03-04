@@ -26,3 +26,7 @@ After login student can view own dashboard.
 Student can view issued book and book return date-time.
 Student can also change own password.
 Student can also recover own password.
+
+![](lsm1.png)
+![](lsm2.png)
+![](lsm3.png)
